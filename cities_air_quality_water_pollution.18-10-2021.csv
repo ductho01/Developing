@@ -1,20 +1,6 @@
 "City", "Region", "Country", "AirQuality", "WaterPollution"
-"New York City", "New York", "United States of America", 46.81603773584906, 49.504950495049506
-"Washington, D.C.", "District of Columbia", "United States of America", 66.12903225806451, 49.107142857142854
-"San Francisco", "California", "United States of America", 60.51401869158879, 43
-"Berlin", "", "Germany", 62.3641304347826, 28.61271676300578
-"Los Angeles", "California", "United States of America", 36.62162162162163, 61.29943502824858
-"Bern", "Canton of Bern", "Switzerland", 94.31818181818181, 12.5
-"Geneva", "Canton of Geneva", "Switzerland", 71.53846153846153, 17.3728813559322
-"Zurich", "Canton of Zurich", "Switzerland", 83.80952380952381, 10.714285714285715
-"Basel", "", "Switzerland", 81.66666666666667, 26.923076923076923
-"London", "England", "United Kingdom", 37.04225352112676, 40.716374269005854
 "Cairo", "Cairo Governorate", "Egypt", 15.830721003134796, 74.35064935064935
 "Alexandria", "Alexandria Governorate", "Egypt", 41.0377358490566, 71.2962962962963
-"Alexandria", "Virginia", "United States of America", 89.0625, 46.15384615384615
-"Paris", "Ile-de-France", "France", 34.02439024390244, 43.12169312169312
-"Boston", "Massachusetts", "United States of America", 78.23529411764706, 32.91139240506329
-"Toronto", "Ontario", "Canada", 65.53468208092485, 37.79940119760479
 "Sao Paulo", "Sao Paulo", "Brazil", 24.056603773584907, 73.71794871794873
 "Vilnius", "", "Lithuania", 77.24719101123596, 20.588235294117645
 "Monaco", "", "Monaco", 28.787878787878785, 61.36363636363637
